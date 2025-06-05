@@ -1,6 +1,6 @@
 # Candidate Search App (React + TypeScript + Vite)
 
-This project is a candidate search application built with React, TypeScript, and Vite. It allows employers to browse GitHub users as potential candidates, accept or reject them, and maintain a list of saved candidates. The app uses the GitHub API and persists saved candidates in localStorage.
+This project is a candidate search application built with React, TypeScript, and Vite. It allows users to browse GitHub users as potential candidates, accept or reject them, and maintain a list of saved candidates. The app uses the GitHub API and persists saved candidates in localStorage.
 
 ## Features
 - Browse random GitHub users as candidates
