@@ -45,7 +45,7 @@ This project is a candidate search application built with React, TypeScript, and
 - **Do not commit your `.env` file or token to version control.**
 
 ## Deployment
-- The app is deployed on Render at: <>
+- The app is deployed on Render at: <https://columbia-coding-bootcamp-module-13.onrender.com>
 
 ## Credits
 - Bootcamp Module 13 Challenge
