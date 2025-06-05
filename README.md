@@ -45,8 +45,7 @@ This project is a candidate search application built with React, TypeScript, and
 - **Do not commit your `.env` file or token to version control.**
 
 ## Deployment
-- The app is ready for deployment to Render or any static hosting that supports Vite.
-- Update this README with your deployed URL after deployment.
+- The app is deployed on Render at: <>
 
 ## Credits
 - Bootcamp Module 13 Challenge
